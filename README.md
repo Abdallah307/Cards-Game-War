@@ -1,7 +1,7 @@
 # Cards-Game-War
-The Cards War game is played with a list of N cards and two players: you and your opponent. The players take turns and in each turn a player takes either the card at the front of the list or the card at the back of the list. Each card has a certain numerical value. When a player takes a card, the card value is added to the player.
+## The Cards War game is played with a list of N cards and two players: you and your opponent. The players take turns and in each turn a player takes either the card at the front of the list or the card at the back of the list. Each card has a certain numerical value. When a player takes a card, the card value is added to the player.
 
-Your task is to find the maximum value you can accumulate assuming you start the first move. Also find the sequence of moves you made to get that maximum value. Note that you must assume that your opponent is as smart as you are, i.e. your opponent will always take the card that is more profitable to him/her. You can assume that N is always even.
+## Your task is to find the maximum value you can accumulate assuming you start the first move. Also find the sequence of moves you made to get that maximum value. Note that you must assume that your opponent is as smart as you are, i.e. your opponent will always take the card that is more profitable to him/her. You can assume that N is always even.
 
 
 Input Format
