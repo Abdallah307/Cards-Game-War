@@ -7,11 +7,13 @@
 Input Format
 
 Number_of_cards
+
 Card_1 Value
 Card_2 Value
 Card_3 Value
 ...
 Card_N Value
+
 Constraints
 
 N is always even
@@ -19,7 +21,9 @@ Values are always positive
 Output Format
 
 Total_Accumulated_Value
+
 Sequence of moves with no spaces (your moves in Capital, your opponents' in Small)
+
 Sample Input 0
 
 6
